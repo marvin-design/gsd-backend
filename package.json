@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "json-server": "file:.17.4"
+  }
+}
