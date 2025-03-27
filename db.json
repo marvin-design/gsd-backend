@@ -86,8 +86,9 @@
       }
       {
         "id": "blackTan",
-        "name": "",
-        "image": "",
-        "facts": "",      }
+        "name": "jimmy",
+        "image": "https://imgs.search.brave.com/zsR2xMvdA0WBf4CzGm2dgtJPndetOZaWDeGclkQPKIw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9yZWdp/c3JlZ2FsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8x/MC9ibGFjay10YW4t/Z2VybWFuLXNoZXBo/ZXJkLmpwZw",
+        "facts": "",      
+      }
     ]
   }
