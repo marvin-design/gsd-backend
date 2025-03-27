@@ -4,92 +4,167 @@
         "id": "solidBlack",
         "name": "Teddy",
         "image": "https://imgs.search.brave.com/JVmY1NEtMBL9ehkQbc9u75KxNz6_Wbeh1iPicz6O1-c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2QyL2Fm/LzRhL2QyYWY0YThh/YjVlODc3OTg2MWI4/MzYxODFlN2FjYWMz/LmpwZw",
-        "facts": ""
+        "facts": [
+          "Origin: Comes from a recessive gene – both parents must carry the black gene.",
+          "Genetics: Entirely black from head to tail.",
+          "Line of Work: Highly sought after for personal protection and K9 work due to their intimidating look.",
+          "Fun Fact: They are NOT more aggressive than other GSDs – it’s all about training!"          
+        ]
       },
       {
         "id": "blackGrey",
         "name": "Gretchen",
         "image": "https://imgs.search.brave.com/m4CMyJYsVvl2hsKehdK4u3TdaSpK2haVOfnIslII5vw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90aGVz/bWFydGNhbmluZS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTkvMDUvYmxhY2st/Y3JlYW0tY29sb3It/Z2VybWFuLXNoZXBo/ZXJkLmpwZw",
-        "facts": ""
+        "facts": [
+           "Origin: A mix of gray and black pigmentation.",
+           "Genetics: Black saddle or solid black with gray markings.",
+           "Line of Work: More common in working lines.",
+           "Fun Fact: These dogs can look very similar to blue or silver GSDs, but their genetics are different!"
+          
+          
+        ]
       },
       {
         "id": "blackSilver",
         "name": "Rocky",
         "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Black-and-Silver-German-Shepherd.jpg",
-        "facts": ""
+        "facts": [
+           "Origin: A variation of the Black & Tan gene, where the tan is diluted to a silver shade.",
+           "Genetics: Black saddle with silver legs, face, and chest.",
+           "Line of Work: Found in both working and show lines, but more common in show breeding.",
+           "Fun Fact: Their silver fur gives them a majestic and almost mystical appearance!"   
+        ]
       },
       {
         "id": "blackRed",
         "name": "Wolfgang",
         "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Black-and-Red-German-Shepherd.jpg",
-        "facts": ""
+        "facts": [
+          "Origin: European show-line breeding programs.",
+          "Genetics: Deep reddish-brown replaces the tan areas.",
+          "Line of Work: Primarily seen in show lines due to their striking appearance.",
+           "Fun Fact: Some say their coat gives them a royal look!"
+        ]
       },
       {
         "id": "gray",
         "name": "Jaeger",
         "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Gray-German-Shepherd.jpg",
-        "facts": ""
+        "facts": [
+           "Origin: A dominant gene variation similar to sable but with a cooler tone.",
+           "Genetics: Often looks like a mix of silver and sable.",
+           "Line of Work: Common in working and military lines due to their strong build and high drive.",
+           "Fun Fact: Gray GSDs are sometimes mistaken for wolf hybrids!",      
+        ]
       },
       {
         "id": "white",
         "name": "Titan",
         "image": "https://dogsacademy.org/wp-content/uploads/2023/09/White-German-Shepherd.jpg",
-        "facts": ""
+        "facts": [
+          "Origin: Bred from early herding GSD lines in Germany & Switzerland.",
+          "Genetics: Caused by a recessive gene but is NOT albino.",
+          "Line of Work: Popular as therapy dogs and family companions.",
+          "Fun Fact: White GSDs were once banned from the breed standard in Germany!"       
+        ]
       },
       {
         "id": "silver",
         "name": "Guardian",
         "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Silver-German-Shepherd.jpg",
-        "facts": ""
+        "facts": [
+           "Origin: Comes from a dilution of the black and tan gene.",
+           "Genetics: Light grayish-silver replaces traditional tan markings.",
+           "Line of Work: Found in both working and show lines.",
+           "Fun Fact: Silver GSDs were once highly sought after for their unique appearance in law enforcement."
+        ]
       },
       {
         "id": "blue",
         "name": "Blitz",
         "image": "https://imgs.search.brave.com/gdOsMRYWyuyjwwNX-FeEsRA9ISdlUipUCuj-e97mROw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJjL2Nj/LzViLzJjY2M1YmZj/NWY2YjU2ZjczNTky/NTI0YmExYjA5ZDJl/LmpwZw",
-        "facts": ""
+        "facts": [
+          "Origin: Comes from a rare dilution gene that affects pigmentation.",
+          "Genetics: Similar to black GSDs, but the blue gene dilutes the coat color.",
+          "Line of Work: More common in companion and show lines.",
+          "Fun Fact: Some kennel clubs still consider this a fault, but many owners love them!"
+        ]
      },
       {
         "id": "liver",
         "name": "Nibbles",
         "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Liver-German-Shepherd.jpg",
-        "facts": ""
+        "facts": [
+           "Origin: Comes from a rare dilution gene that affects pigmentation.",
+           "Genetics: Similar to black GSDs, but the blue gene dilutes the coat color.",
+           "Line of Work: More common in companion and show lines.",
+           "Fun Fact: Some kennel clubs still consider this a fault, but many owners love them!"
+        ]
       },
       {
         "id": "panda",
         "name": "Coco",
         "image": "https://imgs.search.brave.com/j2w8dbRqFCsoTEMIdkCZDF43COw3xO4mq4zBsoQHTCk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzhkL2Q0/L2MwLzhkZDRjMGFj/ZTJjMzI3YmYzMWI5/YTg3NjI0ZDk4OTUy/LmpwZw",
-        "facts": ""
+        "facts": [
+           "Origin: Result of a spontaneous genetic mutation.",
+           "Genetics: NOT mixed – still a purebred GSD!",
+           "Line of Work: Primarily companion dogs.",
+           "Fun Fact: First Panda GSD, Franka von Phenom, was discovered in 2000!"
+        ]
      },
       {
         "id": "sable",
         "name": "Peanut",
         "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Sable-German-Shepherd.jpg",
-        "facts": ""
+        "facts": [
+         "Origin: The first GSDs, including the breed's founder, Horand von Grafrath, were sable.",
+         "Genetics: Agouti pattern – each hair has multiple shades.",
+         "Line of Work: Common in working lines (military, search & rescue).",
+         "Fun Fact: Their coat keeps changing shades even into adulthood!"
+        ]
       },
       {
         "id": "bi-Color",
         "name": "Duke",
         "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Bi-color-German-Shepherd.jpg",
-        "facts": ""
+        "facts": [
+           "Origin: A variation of the Black & Tan gene but with much more black.",
+           "Genetics: The tan markings are minimal (usually on the legs and underbelly).",
+           "Line of Work: Common in working lines (police, military, protection).",
+           "Fun Fact: Some bi-color GSDs are mistaken for solid black because their tan markings are so small!",
+        ]
       },
       {
         "id": "albino",
         "name": "Rex",
         "image": "https://imgs.search.brave.com/ZU5VfZVry4-zwPD-cog5PUgpIv1bGgu0aXmYE8YCDjE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/aXMtZ2hvc3QtYW4t/YWxiaW5vLXNoZXBh/cmQtb3Itd2hpdGUt/c2hlcGFyZC1hc2tp/bmctZm9yLXYwLTR2/a2I5NTNsMjBxYTEu/anBnP3dpZHRoPTY0/MCZjcm9wPXNtYXJ0/JmF1dG89d2VicCZz/PWFkZWI0NDkyZmMw/MDJiNmUwNDVlNDJl/Mzg0YWZmZDU3MzZj/MzY0MTE",
-        "facts": ""
+        "facts": [
+           "Origin: Caused by a genetic mutation that results in a complete lack of pigmentation.",
+           "Genetics: True albinos have pink noses, light-colored eyes, and white fur.",
+           "Line of Work: Not recognized in most kennel clubs due to health concerns.",
+           "Fun Fact: Albino GSDs are often more sensitive to sunlight and may have vision issues."
+        ]
       },
       {
         "id": "isabell",
         "name": "Valor",
         "image": "https://imgs.search.brave.com/ZGGqCFjjHB75LX3ymQ-Y-2sBXtyea9h6GEsxAeZSzLc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9kb2dz/YWNhZGVteS5vcmcv/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MDkvSXNhYmVsbGEt/R2VybWFuLVNoZXBo/ZXJkLmpwZw",
-        "facts": ""
+        "facts": [
+           "Origin: A mix of liver and blue dilution genes.",
+           "Genetics: No black pigment in fur, nose, or eyes—coat appears fawn, silvery-lavender, or lilac.",
+           "Line of Work: Primarily in pet homes and not common in working lines.",
+           "Fun Fact: Isabella-colored GSDs often have light-colored eyes and noses, making them stand out!"
+        ]
       },
       {
         "id": "blackTan",
         "name": "jimmy",
         "image": "https://imgs.search.brave.com/zsR2xMvdA0WBf4CzGm2dgtJPndetOZaWDeGclkQPKIw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9yZWdp/c3JlZ2FsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8x/MC9ibGFjay10YW4t/Z2VybWFuLXNoZXBo/ZXJkLmpwZw",
         "facts": [
-        
+           "Origin: The most recognizable GSD color, developed through selective breeding.",
+           "Genetics: Dominant black saddle pattern with tan legs and face.",
+           "Line of Work: Commonly used in police work, military, and service roles.",
+           "Fun Fact: Puppies are often born darker and lighten as they mature!" 
         ]    
       }
     ]
