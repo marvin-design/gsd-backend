@@ -28,7 +28,7 @@
     },
     {
       "id": "blackSilver",
-      "color":"Black and Silver",
+      "color": "Black and Silver",
       "name": "Rocky",
       "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Black-and-Silver-German-Shepherd.jpg",
       "facts": [
@@ -52,7 +52,7 @@
     },
     {
       "id": "gray",
-      "color":"Grey",
+      "color": "Grey",
       "name": "Jaeger",
       "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Gray-German-Shepherd.jpg",
       "facts": [
@@ -64,7 +64,7 @@
     },
     {
       "id": "white",
-      "color":"White",
+      "color": "White",
       "name": "Titan",
       "image": "https://dogsacademy.org/wp-content/uploads/2023/09/White-German-Shepherd.jpg",
       "facts": [
@@ -76,7 +76,7 @@
     },
     {
       "id": "silver",
-      "color":"Silver",
+      "color": "Silver",
       "name": "Guardian",
       "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Silver-German-Shepherd.jpg",
       "facts": [
@@ -88,7 +88,7 @@
     },
     {
       "id": "blue",
-      "color":"Blue",
+      "color": "Blue",
       "name": "Blitz",
       "image": "https://imgs.search.brave.com/gdOsMRYWyuyjwwNX-FeEsRA9ISdlUipUCuj-e97mROw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzJjL2Nj/LzViLzJjY2M1YmZj/NWY2YjU2ZjczNTky/NTI0YmExYjA5ZDJl/LmpwZw",
       "facts": [
@@ -100,7 +100,7 @@
    },
     {
       "id": "liver",
-      "color":"Liver",
+      "color": "Liver",
       "name": "Nibbles",
       "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Liver-German-Shepherd.jpg",
       "facts": [
@@ -112,7 +112,7 @@
     },
     {
       "id": "panda",
-      "color":"Panda",
+      "color": "Panda",
       "name": "Coco",
       "image": "https://imgs.search.brave.com/j2w8dbRqFCsoTEMIdkCZDF43COw3xO4mq4zBsoQHTCk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzhkL2Q0/L2MwLzhkZDRjMGFj/ZTJjMzI3YmYzMWI5/YTg3NjI0ZDk4OTUy/LmpwZw",
       "facts": [
@@ -124,7 +124,7 @@
    },
     {
       "id": "sable",
-      "color":"Sable",
+      "color": "Sable",
       "name": "Peanut",
       "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Sable-German-Shepherd.jpg",
       "facts": [
@@ -136,7 +136,7 @@
     },
     {
       "id": "bi-Color",
-      "color":"Bi-color",
+      "color": "Bi-color",
       "name": "Duke",
       "image": "https://dogsacademy.org/wp-content/uploads/2023/09/Bi-color-German-Shepherd.jpg",
       "facts": [
@@ -148,7 +148,7 @@
     },
     {
       "id": "albino",
-      "color":"Albino",
+      "color": "Albino",
       "name": "Rex",
       "image": "https://imgs.search.brave.com/ZU5VfZVry4-zwPD-cog5PUgpIv1bGgu0aXmYE8YCDjE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/aXMtZ2hvc3QtYW4t/YWxiaW5vLXNoZXBh/cmQtb3Itd2hpdGUt/c2hlcGFyZC1hc2tp/bmctZm9yLXYwLTR2/a2I5NTNsMjBxYTEu/anBnP3dpZHRoPTY0/MCZjcm9wPXNtYXJ0/JmF1dG89d2VicCZz/PWFkZWI0NDkyZmMw/MDJiNmUwNDVlNDJl/Mzg0YWZmZDU3MzZj/MzY0MTE",
       "facts": [
@@ -160,7 +160,7 @@
     },
     {
       "id": "isabell",
-      "color":"isabell",
+      "color": "isabell",
       "name": "Valor",
       "image": "https://imgs.search.brave.com/ZGGqCFjjHB75LX3ymQ-Y-2sBXtyea9h6GEsxAeZSzLc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9kb2dz/YWNhZGVteS5vcmcv/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MDkvSXNhYmVsbGEt/R2VybWFuLVNoZXBo/ZXJkLmpwZw",
       "facts": [
@@ -172,7 +172,7 @@
     },
     {
       "id": "blackTan",
-      "color":"Black and Tan",
+      "color": "Black and Tan",
       "name": "jimmy",
       "image": "https://imgs.search.brave.com/zsR2xMvdA0WBf4CzGm2dgtJPndetOZaWDeGclkQPKIw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9yZWdp/c3JlZ2FsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8x/MC9ibGFjay10YW4t/Z2VybWFuLXNoZXBo/ZXJkLmpwZw",
       "facts": [
